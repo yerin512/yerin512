@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 <br>
-<h3 align="center"> 🍒 Me 🍒 </h3>
-<p align="center">  
+<h3> 🍒 Me 🍒 </h3>
+<p>  
   <a href="">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/>
   </a>&nbsp  
