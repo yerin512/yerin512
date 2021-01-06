@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
-<br>
+
 <h3> 🍒 Me 🍒 </h3>
 <p>  
   <a href="">
@@ -46,8 +46,6 @@
 ## Interest 👀
 - 흥미1
 - 흥미2
-
-
 <!--
 **yerin512/yerin512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
