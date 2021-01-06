@@ -17,7 +17,7 @@
 ## Interest 👀
 - 흥미1
 - 흥미2
-[출처] [Github] 깃허브에 자기소개 readme.md 내 스타일로 꾸미기 : Mark down|작성자 주힝
+
 
 <!--
 **yerin512/yerin512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
