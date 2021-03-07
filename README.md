@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
-
+ 
 ## Work experience 🤹‍♀️
 - (2019.06 - 2020.06) 샤이닝 웹디자이너/웹퍼블리셔 
 
