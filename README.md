@@ -1,6 +1,6 @@
 ![안녕예린이에요](https://user-images.githubusercontent.com/73337811/104746344-7c77cd80-5792-11eb-9144-210344ac0546.jpg)
 ## Tech Stack 🛠   
-<p>   2   
+<p>    
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp   
@@ -25,7 +25,7 @@
 - 주식 (방관) 
 
 ## Contact Me! 📫
-
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin512&count_bg=%23FEA522&title_bg=%23FFD834&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:dksdpfls0512@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/malduck2/) 
@@ -33,7 +33,7 @@
 
 
 
-<!--
+<!--rt
 **yerin512/yerin512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
