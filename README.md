@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
   
-## Work experience 🤹‍♀️ 
+## Work experience 🤹‍♀️  
 - (2019.06 - 2020.06) 샤이닝 웹디자이너/웹퍼블리셔 
 - (2021.04 ~) 드림프리덤(주) 프론트앤드 개발자
 
