@@ -1,4 +1,7 @@
 
+수정중~
+
+
 ## Tech Stack 🛠             
 <p>                 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -12,8 +15,7 @@
 
 
 ## Interest 👀 
-- 크라임씬/방탈출 (시청)
-- 주식 (방관) 
+
 
 ## Contact Me! 📫
  
