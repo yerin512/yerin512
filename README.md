@@ -20,8 +20,8 @@
 ## Contact Me! 📫
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyerin512&count_bg=%23FEA522&title_bg=%23FFD834&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:dksdpfls0512@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/malduck2/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahnlabrin@gmail.com)](mailto:ahnlabrin@gmail.com)
+
  
 
 
