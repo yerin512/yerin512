@@ -11,11 +11,7 @@
 
 </p>
   
-## Work experience 🤹‍♀️  
-
-
-## Interest 👀 
-
+ 
 
 ## Contact Me! 📫
  
