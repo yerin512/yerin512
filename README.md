@@ -1,7 +1,7 @@
 
 
-## Tech Stack 🛠    
-
+<!-- ## Tech Stack 🛠     -->
+<!-- 
 <p>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Testing%20Library-121212?style=flat-square&logo=Testing Library&logoColor=E33332"/>
 
-</p>
+</p> -->
 
 ## Contact Me! 📫
  
