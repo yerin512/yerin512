@@ -23,7 +23,7 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://ahnlabrin.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahnlabrin@gmail.com)](mailto:ahnlabrin@gmail.com)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yerin512&show_icons=true)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yerin512&show_icons=true) -->
 
 
 <!--rt
